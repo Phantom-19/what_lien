@@ -1,0 +1,19 @@
+clear
+
+echo ""
+toilet -f pagga         Whatsapp Lien          | lolcat
+echo ""
+echo "Mise a jour de Whatsapp Lien en cours........." | lolcat
+echo ""
+git pull origin master
+echo ""
+echo "Mise à jour de Whatsapp Lien terminer........." | lolcat
+echo ""
+figlet -f small Whatsapp a jour ! | lolcat
+
+echo ""
+
+toilet -f pagga  Faxel | lolcat
+sleep 2
+echo ""
+clear
