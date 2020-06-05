@@ -2,7 +2,9 @@
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green&style=for-the-badge"></a>
 <p align="right">
-<a href="#"><img title="Whatsapp Lien" src="https://img.shields.io/badge/Whatsapp%20Lien%-cyan?colorA=cyan&colorB=cyan&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp Lien" src="https://img.shields.io/badge/Whatsapp%20Lien-cyan?colorA=cyan&colorB=teal&style=for-the-badge"></a>
+
+
 </p>
 <p align="center"
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
@@ -72,5 +74,5 @@ apt update ; apt install git curl -y ; git clone git clone https://github.com/Ph
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=for-the-badge&logo=License-MIT)](https://raw.githubusercontent.com/haut/master/LICENSE)
 
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-me%20soutenir-green.svg?logo=paypal)](https://www.paypal.me/)
 
