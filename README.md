@@ -72,7 +72,7 @@ apt update ; apt install git curl -y ; git clone git clone https://github.com/Ph
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-Faxel1.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/Faxel1)&nbsp;
 
-[![Gmail](https://img.shields.io/badge/%20Email--lightorange.svg?logo=gmail&style=flat-square)](faxel19@gmail.com)
+[![Gmail](https://img.shields.io/badge/-%20Email-orange.svg?logo=gmail&style=flat-square)](faxel19@gmail.com)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=for-the-badge&logo=License-MIT)](https://raw.githubusercontent.com/haut/master/LICENSE)
 
 [![Me soutenir via PayPal](https://img.shields.io/badge/PayPal-Me%20soutenir-green.svg?logo=paypal)](https://www.paypal.me/)
