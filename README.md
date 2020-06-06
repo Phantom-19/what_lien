@@ -70,9 +70,11 @@ apt update ; apt install git curl -y ; git clone git clone https://github.com/Ph
 [![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-teal?style=for-the-badge&logo=Facebook)](https://www.facebook.com/Faxel19)
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40kouadiok-brown?style=for-the-badge&logo=skyrock)](https://kouadiok.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/mctony64)
-[![Donate](https://img.shields.io/badge/Donate-%40PayPal-orange.svg?style=flat-square)]
+[![Gitter chat](https://img.shields.io/badge/Chat-Gitter-Faxel1.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/Faxel1)&nbsp;
 
+[![Gmail](https://img.shields.io/badge/%20Email--lightorange.svg?logo=gmail&style=flat-square)](faxel19@gmail.com)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=for-the-badge&logo=License-MIT)](https://raw.githubusercontent.com/haut/master/LICENSE)
 
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-me%20soutenir-green.svg?logo=paypal)](https://www.paypal.me/)
+[![Me soutenir via PayPal](https://img.shields.io/badge/PayPal-Me%20soutenir-green.svg?logo=paypal)](https://www.paypal.me/)
+[![Tester sur Python 3.7](https://img.shields.io/badge/Tester-sur%20Python%203.7-blue.svg?logo=python&style=flat-square)]( https://www.python.org/downloads) 
 
