@@ -31,7 +31,7 @@ what_lien  est un script qui permet de generer des lien whatsapp le plus rapidem
 
 ````
 
-## `Installation de yutube `:
+## `Installation de what_lien `:
 
 * `apt update`
 * `apt install git curl python2 python `
@@ -44,7 +44,7 @@ what_lien  est un script qui permet de generer des lien whatsapp le plus rapidem
 
 ##  `Commande unique `:
 ```
-apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; pip2 install mechanize ;   pip2 install requests ; python2lien
+apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; pip2 install mechanize ;   pip2 install requests ; python2 lien
 ```
 
 
