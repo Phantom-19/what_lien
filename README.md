@@ -68,7 +68,7 @@ apt update ; apt install git curl -y ; git clone git clone https://github.com/Ph
 [![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-cyan?style=for-the-badge&logo=telegram)](https://t.me/Faxelh)
 [![Pastebin](https://img.shields.io/badge/Pastebin-%40Faxel-purple?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/Faxel)
 [![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-teal?style=for-the-badge&logo=Facebook)](https://www.facebook.com/Faxel19)
-[![Skyrock](https://img.shields.io/badge/Skyrock-%40kouadiok-brown?style=for-the-badge&logo=skyrock)](https://kouadiok.skyrock.com/profil/)
+[![Skyrock](https://img.shields.io/badge/Skyrock-%40kouadiok-brown?style=for-the-badge&logo=skyrock)](https://Faxel.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-Faxel1.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/Faxel1)&nbsp;
 
