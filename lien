@@ -200,7 +200,7 @@ def what_lien():
       if not numero:
         print("\n\033[1;91m[\033[1;93m*\033[1;91m] Veuillez saisir un numéro whatsapp!")
         raw_input("\n\033[1;91m[ \033[1;97mRetour \033[1;91m]")
-        menu() 
+        Menu() 
       else:
         load("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Procès en cours\033[1;97m, patientez\033[1;92m...")
         print("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Votre lien de discussion whatsapp est stocker dans le dossier faxel_w.txt")
@@ -211,7 +211,7 @@ def what_lien():
         print("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Quitter le programme et faite \033[1;95mcat \033[1;96mfaxel_w.txt\033[1;97m et vous verrez.")
         mael("\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour,    \033[38;5;214mFaxel \033[1;97mtoujours      \033[1;91m[\033[1;93m**\033[1;91m]")
         raw_input("\n\033[1;91m[\033[1;97mRetour \033[1;91m]")
-        menu()
+        Menu()
 ####################################################################################################
 ####################################################################################################
 if __name__ == "__main__":
