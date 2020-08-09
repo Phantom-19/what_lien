@@ -190,7 +190,6 @@ def choix_menu():
 ####################################################################################################    
 def what_lien():
       cls()
-      horaire()
       print(logo_what)
       print("\033[38;5;248m╬"+48*"═"+1*"╬")
       mael("\033[1;91m[\033[1;93m*\033[1;91m] \033[38;5;224mGenerateur de  lien  pour la discussion sur whatsapp \033[1;91m[\033[1;93m*\033[1;91m] ")
@@ -203,7 +202,7 @@ def what_lien():
       if not numero:
         print("\n\033[1;91m[\033[1;93m*\033[1;91m] Veuillez saisir un numéro whatsapp!")
         raw_input("\n\033[1;91m[ \033[1;97mRetour \033[1;91m]")
-        Menu() 
+        what_lien() 
       else:
         load("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Procès en cours\033[1;97m, patientez\033[1;92m...")
         print("\033[38;5;248m╬"+48*"═"+1*"╬")
