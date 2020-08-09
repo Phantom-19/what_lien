@@ -24,8 +24,8 @@ try:
 except:
     cls()
     print("\033[1;95m Configuration requise pour l'installation....\033[1;97m")
-    os.system('pip2 install requests')
-    os.system('pip2 install mechanize')
+    os.system('pip3 install requests')
+    os.system('pip3 install mechanize')
     cls()
 ####################################################################################################
 if sys.version[0] in '2':
