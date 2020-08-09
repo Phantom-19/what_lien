@@ -210,7 +210,7 @@ def what_lien():
         enregistrement = open('faxel.txt','w')
         enregistrement.write('#Lien WhatsApp générer par Faxel\n#Twitter https://twitter.com/Faxel2020\n\n'+faxel_w+'\n\n')
         enregistrement.close()
-        os.system('mv faxel.txt /sdcard/
+        os.system('mv faxel.txt /sdcard/')
         print("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Quitter le programme et faite \033[1;95mcat \033[1;96mfaxel_w.txt\033[1;97m et vous verrez.")
         mael("\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour,    \033[38;5;214mFaxel \033[1;97mtoujours      \033[1;91m[\033[1;93m**\033[1;91m]")
         raw_input("\n\033[1;91m[\033[1;97mRetour \033[1;91m]")
