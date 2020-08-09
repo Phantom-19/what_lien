@@ -206,14 +206,14 @@ def what_lien():
       else:
         load("\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Procès en cours\033[1;97m, patientez\033[1;92m...")
         print("\033[38;5;248m╬"+48*"═"+1*"╬")
-        mael("\n\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Votre lien de discussion whatsapp est stocker dans le dossier\n\033[38;5;227mfaxel.txt\033[1;97m sur la catre sd")
+        mael("\n\033[1;91m[\033[1;93m*\033[1;91m]\033[1;97m Votre lien de discussion whatsapp est stocké sur \033[1;92mla carte sd\n\033[1;97m sous le nom de\033[38;5;227mfaxel.txt.")
         print("\033[38;5;248m╬"+48*"═"+1*"╬")
         faxel_w = whatsapp_api + numero
         enregistrement = open('faxel.txt','w')
         enregistrement.write('#Lien WhatsApp générer par Faxel\n#Twitter https://twitter.com/Faxel2020\n\n'+faxel_w+'\n\n')
         enregistrement.close()
         os.system('cp faxel.txt /sdcard/')
-        os.system('rm -rf faxel.txt)
+        os.system('rm -rf faxel.txt')
         print("\033[38;5;248m╬"+48*"═"+1*"╬")
         mael("\033[1;91m[\033[1;93m**\033[1;91m] \033[38;5;214mFaxel\033[1;97m un jour,    \033[38;5;214mFaxel \033[1;97mtoujours      \033[1;91m[\033[1;93m**\033[1;91m]")
         print("\033[38;5;248m╬"+48*"═"+1*"╬")
