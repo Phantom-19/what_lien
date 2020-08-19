@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40"></a>
 </p>
 <p align="right">
-<a href="#"><img title="Whatsapp Lien" src="https://img.shields.io/badge/Whatsapp%20Lien-cyan?colorA=cyan&colorB=teal&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp Lien" src="https://img.shields.io/badge/Whatsapp%20Lien-cyan?colorA=cyan&colorB=teal"></a>
 </p>
 <p align="center">
 <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
@@ -10,15 +10,15 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/>
 </p> 
 <p align="center"
-<a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+<a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/what_lien/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/what_lien??color=orange&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/what_lien/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/what_lien??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/what_lien/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/what_lien?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-base-green.svg?style=flat-square"></a>
+<a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
+<a href="https://github.com/Phantom-19/what_lien/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/what_lien??color=orange"></a>
+<a href="https://github.com/Phantom-19/what_lien/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/what_lien??color=red"></a>
+<a href="https://github.com/Phantom-19/what_lien/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/what_lien?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -39,14 +39,14 @@ what_lien  est un script qui permet de generer des lien whatsapp le plus rapidem
 * `pip3 install mechanize`
 * `pip3 install requests`
 
-## ` Execution > ` `python3 lien`
+## ` Execution > ` `python3 lien.py`
 
 ## ` NOM D'UTILISATEUR : Faxel    `
 ## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique `:
 ```
-apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; pip3 install mechanize ;   pip3 install requests ; python3 lien
+apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; pip3 install mechanize ;   pip3 install requests ; python3 lien.py
 ```
 
 
