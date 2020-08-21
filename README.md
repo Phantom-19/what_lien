@@ -36,17 +36,15 @@ what_lien  est un script qui permet de generer des lien whatsapp le plus rapidem
 * `apt install git curl python `
 * `git clone https://github.com/Phantom-19/what_lien.git`
 * `cd what_lien`
-* `pip3 install mechanize`
-* `pip3 install requests`
 
-## ` Execution > ` `python3 lien.py`
+## ` Execution > ` `python2 lien.py`
 
 ## ` NOM D'UTILISATEUR : Faxel    `
 ## ` MOT DE PASSE      : 08127934 `
 
 ##  `Commande unique `:
 ```
-apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; pip3 install mechanize ;   pip3 install requests ; python3 lien.py
+apt update ; apt install git curl -y ; git clone git clone https://github.com/Phantom-19/what_lien.git ; cd what_lien ; python2 lien.py
 ```
 
 
